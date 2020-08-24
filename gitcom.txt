@@ -1,0 +1,4 @@
+﻿Git pull
+git branch
+git add
+
